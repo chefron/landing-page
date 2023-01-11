@@ -1,2 +1,2 @@
 # landing-page
-The Odin Project Landing Page
+Lading page created as part of the Odin Project curriculum.
